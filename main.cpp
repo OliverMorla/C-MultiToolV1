@@ -44,7 +44,7 @@ public:
 
 
         cout << " \n \t \t Enter your choice: ";
-        MenuChoice(); //Calling the MenuChoice1 Function
+        MenuChoice(); //Calling the Menu Choice Function
 
 
     }
